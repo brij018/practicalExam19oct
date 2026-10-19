@@ -1,0 +1,13 @@
+{
+  "users": [],
+  "blogs": [
+    {
+      "id": "1",
+      "title": "Welcome to React Blog",
+      "category": "Technology",
+      "content": "This is our first blog post created to demonstrate the React Blog project.",
+      "author": "Admin",
+      "date": "2026-10-19"
+    }
+  ]
+}
