@@ -142,3 +142,11 @@ You can find more of my projects on GitHub:
 ---
 
 ⭐ If you found this project interesting, feel free to check out my other repositories!
+
+---
+
+## Video Explanation: 
+
+  https://drive.google.com/file/d/1_3UrYGzX8S5sBdwDnB6fiDnmn3_ChkV1/view?usp=sharing
+
+
