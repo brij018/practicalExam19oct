@@ -7,7 +7,11 @@ Thanks for checking out this project.
 This repository contains my **BlogPost Project**, built as part of my development practice. The project focuses on implementing the required functionality while keeping the code structured, simple, and easy to understand.
 
 ---
+## API : 
 
+  https://blog-api-cggv.onrender.com/
+
+---
 ## ✨ Features
 
 - ⚛️ React-based application
